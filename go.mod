@@ -4,7 +4,7 @@ go 1.22.4
 
 require (
 	fyne.io/fyne/v2 v2.4.5
-	github.com/jspc/gordon v0.0.0-20240619111202-32719b376716
+	github.com/jspc/gordon v0.1.0
 	github.com/mitchellh/go-wordwrap v1.0.1
 )
 
@@ -33,7 +33,7 @@ require (
 	github.com/srwiley/rasterx v0.0.0-20220730225603-2ab79fcdd4ef // indirect
 	github.com/stretchr/testify v1.9.0 // indirect
 	github.com/tevino/abool v1.2.0 // indirect
-	github.com/vinyl-linux/mint v0.4.1 // indirect
+	github.com/vinyl-linux/mint v0.4.2 // indirect
 	github.com/yuin/goldmark v1.7.2 // indirect
 	golang.org/x/crypto v0.24.0 // indirect
 	golang.org/x/image v0.17.0 // indirect
